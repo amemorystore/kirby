@@ -1,0 +1,20 @@
+INCLUDE "hram.asm"
+
+; MBC1
+MBC1RomBank EQU  $2100
+
+; Music
+MUSIC_NO_CHANGE EQU $FF
+MUSIC_MTDEDEDE_INTRO EQU $08
+
+; Stages
+INDEX_GREEN_GREENS EQU $00
+
+; Stage attributes
+STAGE_ATTRIBUTES_INVERT_BGP EQU $0005
+
+; Map flags
+FLAG_INVERT_BGP EQU $01
+
+; Engine constants
+MAX_ENTITIES EQU $10
