@@ -1,3 +1,6 @@
+#.         #
+#...........*
+#......._ .......
 .PHONY: all tools compare clean tidy
 
 .SUFFIXES:
