@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $00a", ROMX[$4000], BANK[$a]
 
 TitlescreenGfx1:
