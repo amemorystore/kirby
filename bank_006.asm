@@ -1,5 +1,6 @@
+;#.                  #
 SECTION "ROM Bank $006", ROMX[$4000], BANK[$6]
-
+;#.                  #
 ExecuteTitlescreen:
     ld a, $ff
     ld [wClearAllSprites], a
