@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $005", ROMX[$4000], BANK[$5]
 
     ld a, [$d3f4]
