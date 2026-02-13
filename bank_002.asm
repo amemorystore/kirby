@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $002", ROMX[$4000], BANK[$2]
 
 NormalGameSpritesGfx:
