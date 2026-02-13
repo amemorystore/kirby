@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $007", ROMX[$4000], BANK[$7]
 
 StageEntities:
