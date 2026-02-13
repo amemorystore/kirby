@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $00b", ROMX[$4000], BANK[$b]
 
 ;Byte 1 and 2 are some sort of X and Y offsets for the Metasprite.
