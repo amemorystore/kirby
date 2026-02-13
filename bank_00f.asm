@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $00f", ROMX[$4000], BANK[$f]
 
 StageEntities_ExtraGame:
