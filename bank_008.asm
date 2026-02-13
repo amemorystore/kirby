@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $008", ROMX[$4000], BANK[$8]
 
 INCBIN "baserom.gb", $20000, $20587 - $20000
