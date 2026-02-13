@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $003", ROMX[$4000], BANK[$3]
 
 TitlescreenTilemap:
