@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $00e", ROMX[$4000], BANK[$e]
 
     inc bc
