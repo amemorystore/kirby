@@ -1,3 +1,4 @@
+;#.                  #
 SECTION "ROM Bank $001", ROMX[$4000], BANK[$1]
 
 Call_001_4000:
