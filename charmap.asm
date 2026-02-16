@@ -1,3 +1,5 @@
+;#.          #
+
 	charmap " ", $00
 
 	charmap "X", $79
