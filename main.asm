@@ -1,3 +1,4 @@
+;#.        #
 ld_long: MACRO
     IF STRLWR("\1") == "a" 
         ; ld a, [$ff40]
