@@ -8,7 +8,7 @@
 .PRECIOUS:
 .SECONDARY:
 
-ROM := kirbydreamland.gb
+ROM := kirby.gb
 OBJS := main.o wram.o
 
 MD5 := md5sum -c
