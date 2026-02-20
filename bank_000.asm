@@ -1,4 +1,4 @@
-;#.                  #
+;#.               #
 SECTION "ROM Bank $000", ROM0[$0]
 
 INCBIN "baserom.gb", $0, $40 - $0
